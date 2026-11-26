@@ -4,7 +4,13 @@
 
 > **Estado: propuesta abierta / búsqueda de colaboradores.** No existe todavía un prototipo funcional ni esquemas, Gerbers, STL/STEP o firmware validados. Las imágenes son **renders conceptuales generados por IA**, no dibujos de fabricación. Las características y cotas son objetivos sujetos a investigación y cambios. No se han confirmado precios ni compatibilidad telefónica con operadores.
 
-**Imágenes de concepto:** se incorporarán al directorio `assets/renders/` en una actualización. Los dibujos del proyecto son referencias visuales, no archivos de fabricación.
+### Vista conceptual comparativa (esquemas vectoriales provisionales)
+
+| Gris aluminio/plástico | Negro con detalles naranjas |
+|---|---|
+| ![Vista esquemática gris](assets/diagrams/xp1_rev6_diseno_gris_esquematico.svg) | ![Vista esquemática negra y naranja](assets/diagrams/xp1_rev6_diseno_negro_naranja_esquematico.svg) |
+
+Los dos SVG son diagramas simplificados creados para documentar la distribución; **los renders PNG originales se encuentran aún en el paquete externo pendiente de importar**. No son planos de fabricación.
 
 ## La idea
 
